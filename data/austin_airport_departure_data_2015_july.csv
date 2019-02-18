@@ -1,19 +1,4 @@
-
-   Detailed Statistics  
-    Departures 
-  
-  Airport: Austin-Round Rock, TX - Austin-Bergstrom International (AUS)
-  Airline: Southwest Airlines (WN)
-  Month(s): July
-  Day(s): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 and  31
-  Year(s): 2015
-  NOTE:  A complete listing of airline  and airport  abbreviations is available. Times are reported in local time using a 24 hour clock.
-  Airlines began reporting tarmac times for cancelled and diverted flights in October 2008. Tarmac times for cancelled or diverted flights operated prior to Oct. 1, 2008 are not available. Cause of delay data is available on this database beginning with flights operated in October 2008. For cause of delay data from June 2003, when cause of delay data was first reported, see  BTS Causes of Delay  or the  On-Time Performance database  For an explanation of the Cause of Delay reporting, see Understanding the  Reporting of Causes of Flight Delays and Cancellations. 
-  All Cause of Delay (in minutes) are referring to the Arrival Delay.
-   
-
-  
-  Carrier Code,Date (MM/DD/YYYY),Flight Number,Tail Number,Destination Airport ,Scheduled Departure Time,Actual Departure Time,Scheduled Elapsed Time(Minutes),Actual Elapsed Time(Minutes),Departure Delay(Minutes),Wheels-off Time,Taxi-out Time(Minutes),DelayCarrier(Minutes),DelayWeather(Minutes),DelayNational Aviation System(Minutes),DelaySecurity(Minutes),DelayLate Aircraft Arrival(Minutes),
+Carrier Code,Date (MM/DD/YYYY),Flight Number,Tail Number,Destination Airport ,Scheduled Departure Time,Actual Departure Time,Scheduled Elapsed Time(Minutes),Actual Elapsed Time(Minutes),Departure Delay(Minutes),Wheels-off Time,Taxi-out Time(Minutes),DelayCarrier(Minutes),DelayWeather(Minutes),DelayNational Aviation System(Minutes),DelaySecurity(Minutes),DelayLate Aircraft Arrival(Minutes),
   WN,07/01/2015,0103,N8607M,MDW,06:30,06:52,0165 ,0147,22,07:01,0009,0000,0000,0000,0000,0000,
   WN,07/01/2015,0144,N8609A,SAN,20:55,20:50,0170 ,0158,-5,21:03,0013,0000,0000,0000,0000,0000,
   WN,07/01/2015,0178,N646SW,ELP,20:30,20:45,0090 ,0080,15,20:55,0010,0000,0000,0000,0000,0000,
